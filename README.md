@@ -1,7 +1,7 @@
-# HonestA11y
+# honestA11y
 
-This one time we built an application. We built an application. 
-The suits argued about colors. They picked something 'pretty'.
+This one time we built an application. The suits argued about colors. 
+They picked something 'pretty'.
 Then we had to build a second app for accessibility.
 
 Let's not do that. Let's build from the ground up for accessibility.
